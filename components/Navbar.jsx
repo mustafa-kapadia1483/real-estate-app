@@ -25,6 +25,8 @@ const Navbar = () => (
     right="0"
     bg="white"
     zIndex="999"
+    maxWidth="1200px"
+    marginInline="auto"
   >
     <Box fontSize="3xl" color="blue.400" fontWeight="bold">
       <Link href="/" paddingLeft="2">
